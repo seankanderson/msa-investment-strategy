@@ -45,6 +45,8 @@ MSA's AI analysis layer reads these Markdown strategy documents to:
 3. Support advisor-facing analysis and client plan generation
 4. Surface relevant strategy context when analyzing specific tickers or sectors
 
+When evaluating trade conditions or market environment, apply the macro intelligence framework in [macro-plumbing.md](macro-plumbing.md). That document tracks structural regulatory changes (capital rules, leverage ratios), liquidity plumbing signals (SOFR, RRP, Fed balance sheet), and the timing gap framework for identifying when policy changes have not yet fully priced in. Macro context from that framework should inform entry timing and position sizing on individual strategy documents.
+
 ### Document Conventions
 
 Strategy files in this project should include:

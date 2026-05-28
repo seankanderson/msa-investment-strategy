@@ -17,6 +17,7 @@ This project is the strategy and analysis knowledge base for Main Street Advisor
 | [primer.md](primer.md)                               | Context primer to paste into a browser AI before a stock analysis session                  |
 | [agents.md](agents.md)                               | Master AI context document — project conventions, document structure, and formatting rules |
 | [msa-business-overview.md](msa-business-overview.md) | MSA business process overview                                                              |
+| [macro-plumbing.md](macro-plumbing.md)               | Macro intelligence framework — tracking structural regulatory changes, liquidity signals, and institutional positioning before they price in |
 
 ---
 
