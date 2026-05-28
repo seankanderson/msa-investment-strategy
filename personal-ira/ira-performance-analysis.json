@@ -1,0 +1,193 @@
+{
+  "TotalRows": 209,
+  "UniqueTickers": 24,
+  "TotalCostBasis": 583539.28,
+  "TotalProceeds": 610205.41,
+  "NetRealizedGainLoss": 26666.13,
+  "WinningRows": 153,
+  "LosingRows": 51,
+  "FlatRows": 5,
+  "WinRate": 75.0,
+  "AvgWinningRow": 191.67,
+  "AvgLosingRow": -52.14,
+  "LargestWinnerRow": {
+    "BaseTicker": "BTI",
+    "AssetType": "Equity/ETF",
+    "Symbol": "BTI(110448107)",
+    "Description": "BRITISH AMERICAN TOBACCO LVL II ADR EACH REP 1 ORD GBP0.25 BNY",
+    "DateAcquired": "2024-02-16",
+    "DateSold": "2024-09-30",
+    "Quantity": "394",
+    "CostBasis": 12017.0,
+    "Proceeds": 14447.58,
+    "GainLoss": 2430.58
+  },
+  "LargestLoserRow": {
+    "BaseTicker": "AGNC",
+    "AssetType": "Equity/ETF",
+    "Symbol": "AGNC(00123Q104)",
+    "Description": "AGNC INVT CORP COM",
+    "DateAcquired": "2025-02-26",
+    "DateSold": "2025-06-16",
+    "Quantity": "491",
+    "CostBasis": 5168.46,
+    "Proceeds": 4603.13,
+    "GainLoss": -565.33
+  },
+  "AssetTypes": [
+    {
+      "AssetType": "Equity/ETF",
+      "Rows": 141,
+      "GainLoss": 18067.83
+    },
+    {
+      "AssetType": "Option",
+      "Rows": 68,
+      "GainLoss": 8598.3
+    }
+  ],
+  "TopWinners": [
+    {
+      "BaseTicker": "INTC",
+      "Rows": 60,
+      "GainLoss": 19693.89,
+      "CostBasis": 296609.14,
+      "Proceeds": 316303.03
+    },
+    {
+      "BaseTicker": "BTI",
+      "Rows": 6,
+      "GainLoss": 3093.31,
+      "CostBasis": 12049.98,
+      "Proceeds": 15143.29
+    },
+    {
+      "BaseTicker": "HPE",
+      "Rows": 3,
+      "GainLoss": 887.19,
+      "CostBasis": 919.63,
+      "Proceeds": 1806.82
+    },
+    {
+      "BaseTicker": "ARCC",
+      "Rows": 9,
+      "GainLoss": 866.53,
+      "CostBasis": 9999.99,
+      "Proceeds": 10866.52
+    },
+    {
+      "BaseTicker": "SMCI",
+      "Rows": 2,
+      "GainLoss": 381.93,
+      "CostBasis": 2361.61,
+      "Proceeds": 2743.54
+    },
+    {
+      "BaseTicker": "KMI",
+      "Rows": 7,
+      "GainLoss": 362.61,
+      "CostBasis": 52087.71,
+      "Proceeds": 52450.32
+    },
+    {
+      "BaseTicker": "F",
+      "Rows": 25,
+      "GainLoss": 235.47,
+      "CostBasis": 25566.44,
+      "Proceeds": 25801.91
+    },
+    {
+      "BaseTicker": "CRCL",
+      "Rows": 3,
+      "GainLoss": 198.7,
+      "CostBasis": 1218.88,
+      "Proceeds": 1417.58
+    },
+    {
+      "BaseTicker": "DRIV",
+      "Rows": 4,
+      "GainLoss": 196.15,
+      "CostBasis": 11831.37,
+      "Proceeds": 12027.52
+    },
+    {
+      "BaseTicker": "OBDC",
+      "Rows": 5,
+      "GainLoss": 169.28,
+      "CostBasis": 5134.93,
+      "Proceeds": 5304.21
+    }
+  ],
+  "TopLosers": [
+    {
+      "BaseTicker": "VPU",
+      "Rows": 3,
+      "GainLoss": -109.91,
+      "CostBasis": 15144.96,
+      "Proceeds": 15035.05
+    },
+    {
+      "BaseTicker": "PFE",
+      "Rows": 3,
+      "GainLoss": -8.1,
+      "CostBasis": 9999.99,
+      "Proceeds": 9991.89
+    },
+    {
+      "BaseTicker": "BAC",
+      "Rows": 1,
+      "GainLoss": 21.92,
+      "CostBasis": 412.04,
+      "Proceeds": 433.96
+    },
+    {
+      "BaseTicker": "UPWK",
+      "Rows": 2,
+      "GainLoss": 24.72,
+      "CostBasis": 11855.01,
+      "Proceeds": 11879.73
+    },
+    {
+      "BaseTicker": "RIVN",
+      "Rows": 1,
+      "GainLoss": 31.98,
+      "CostBasis": 1008.99,
+      "Proceeds": 1040.97
+    },
+    {
+      "BaseTicker": "VTSI",
+      "Rows": 1,
+      "GainLoss": 33.75,
+      "CostBasis": 1852.89,
+      "Proceeds": 1886.64
+    },
+    {
+      "BaseTicker": "ABR",
+      "Rows": 1,
+      "GainLoss": 53.18,
+      "CostBasis": 164.11,
+      "Proceeds": 217.29
+    },
+    {
+      "BaseTicker": "DOW",
+      "Rows": 1,
+      "GainLoss": 62.92,
+      "CostBasis": 260.29,
+      "Proceeds": 323.21
+    },
+    {
+      "BaseTicker": "SOFI",
+      "Rows": 2,
+      "GainLoss": 63.62,
+      "CostBasis": 168.29,
+      "Proceeds": 231.91
+    },
+    {
+      "BaseTicker": "BBW",
+      "Rows": 3,
+      "GainLoss": 68.34,
+      "CostBasis": 3208.61,
+      "Proceeds": 3276.95
+    }
+  ]
+}
