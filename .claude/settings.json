@@ -4,7 +4,11 @@
       "Bash(git remote *)",
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(ls -lt \"/c/Users/SeanAnderson/.claude/projects/c--Users-SeanAnderson-OneDrive---Data-Virtue-1Investing-RIA-investment-strategy/\" | head -20)",
+      "Read(//c/Users/SeanAnderson/.claude/projects/c--Users-SeanAnderson-OneDrive---Data-Virtue-1Investing-RIA-investment-strategy//**)",
+      "Read(//c/Users/SeanAnderson/.claude/projects/c--Users-SeanAnderson-OneDrive---Data-Virtue-1Investing-RIA-investment-strategy/**)",
+      "Bash(python -c ' *)"
     ]
   }
 }
